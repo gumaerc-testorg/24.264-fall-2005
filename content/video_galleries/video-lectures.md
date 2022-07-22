@@ -1,6 +1,11 @@
 ---
 content_type: video_gallery
+description: This section provides links to two video lectures form the the Fall 2005
+  version of the course.
 is_media_gallery: true
+learning_resource_types:
+- Lecture Videos
+ocw_type: CourseSection
 title: Video Lectures
 uid: 1ce54691-c401-c2a4-ad2f-bd984b41ff98
 videos:

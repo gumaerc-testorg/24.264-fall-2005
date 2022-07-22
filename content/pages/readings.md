@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on the required texts for the course,
+  and the schedule of course topics, readings, and films.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: d1ae3abc-50b1-adfd-ba1d-602797707a5b
 ---
