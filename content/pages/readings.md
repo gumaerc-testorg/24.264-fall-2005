@@ -12,9 +12,9 @@ uid: d1ae3abc-50b1-adfd-ba1d-602797707a5b
 Required Texts
 --------------
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/reality-transformed) Singer, Irving. [_Reality Transformed: Film as Meaning and Technique_](https://mitpress.mit.edu/books/reality-transformed). Cambridge, MA: MIT Press, 1998. ISBN: 0262692481.
+{{% resource_link "5344d969-7780-4b5d-8f0d-9416a07c4984" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Singer, Irving. {{% resource_link "5344d969-7780-4b5d-8f0d-9416a07c4984" "_Reality Transformed: Film as Meaning and Technique_" %}}. Cambridge, MA: MIT Press, 1998. ISBN: 0262692481.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/three-philosophical-filmmakers) ———. [_Three Philosophical Filmmakers: Hitchcock, Welles, Renoir_](https://mitpress.mit.edu/books/three-philosophical-filmmakers). Cambridge, MA: MIT Press, 2004. ISBN: 0262195011.
+{{% resource_link "ad03b8c2-c9c5-4ee1-abc5-c4255446bf1d" "![Buy at MIT Press](/images/mp_logo.gif)" %}} ———. {{% resource_link "ad03b8c2-c9c5-4ee1-abc5-c4255446bf1d" "_Three Philosophical Filmmakers: Hitchcock, Welles, Renoir_" %}}. Cambridge, MA: MIT Press, 2004. ISBN: 0262195011.
 
 Where available, links to more information about each film viewed in the course have been made to the Internet Movie Database.
 
@@ -43,7 +43,7 @@ TOPICS/READINGS/FILMS
 
 Introduction: Myth in Visual and Literary Arts
 
-Film: Sturges, Preston. [_The Lady Eve_](http://www.imdb.com/title/tt0033804/), 1941.
+Film: Sturges, Preston. {{% resource_link "bebe7a64-5225-4e33-96af-f2a820724821" "_The Lady Eve_" %}}, 1941.
 
 
 {{< tdclose >}}
@@ -56,9 +56,9 @@ Film: Sturges, Preston. [_The Lady Eve_](http://www.imdb.com/title/tt0033804/), 
 {{< tdopen >}}
 
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/reality-transformed) Singer, Irving. [_Reality Transformed: Film as Meaning and Technique_](https://mitpress.mit.edu/books/reality-transformed). Cambridge, MA: MIT Press, 1998, pp. xi-50 and 131-52. ISBN: 0262692481.
+{{% resource_link "5344d969-7780-4b5d-8f0d-9416a07c4984" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Singer, Irving. {{% resource_link "5344d969-7780-4b5d-8f0d-9416a07c4984" "_Reality Transformed: Film as Meaning and Technique_" %}}. Cambridge, MA: MIT Press, 1998, pp. xi-50 and 131-52. ISBN: 0262692481.
 
-Film: Jeunet, Jean-Pierre. [_Amélie_](http://www.imdb.com/title/tt0211915/), 2001.
+Film: Jeunet, Jean-Pierre. {{% resource_link "9624f005-1d80-4cea-b103-74732551cebe" "_Amélie_" %}}, 2001.
 
 
 {{< tdclose >}}
@@ -73,7 +73,7 @@ Film: Jeunet, Jean-Pierre. [_Amélie_](http://www.imdb.com/title/tt0211915/), 20
 
 Bédier, Joseph. _Tristan & Iseult_. Rei ed. London, UK: Vintage, 1994. ISBN: 0679750169.
 
-Film: Cocteau, Jean, and Jean Delannoy. [_The Eternal Return_](http://www.imdb.com/title/tt0036566/), 1943.
+Film: Cocteau, Jean, and Jean Delannoy. {{% resource_link "d31756bd-2b82-43cb-90e1-5b146605bb76" "_The Eternal Return_" %}}, 1943.
 
 
 {{< tdclose >}}
@@ -88,7 +88,7 @@ Film: Cocteau, Jean, and Jean Delannoy. [_The Eternal Return_](http://www.imdb.c
 
 Shaw, George Bernard. _Pygmalion_. New York, NY: Penguin Books, 2003. ISBN: 0141439505. (Including the prose epilogue.)
 
-Film: Asquith, Anthony, and Leslie Howard. [_Pygmalion_](http://www.imdb.com/title/tt0030637/), 1938.
+Film: Asquith, Anthony, and Leslie Howard. {{% resource_link "acea42de-f586-4358-87ff-db9cd0b689dd" "_Pygmalion_" %}}, 1938.
 
 
 {{< tdclose >}}
@@ -101,9 +101,9 @@ Film: Asquith, Anthony, and Leslie Howard. [_Pygmalion_](http://www.imdb.com/tit
 {{< tdopen >}}
 
 
-James, Henry. _Washington Square_. New York, NY: Modern Library, 2002. ISBN: 0375761225. (Including introduction.) ([Download](http://www.gutenberg.org/etext/2870) a version of the text from Project Gutenberg.)
+James, Henry. _Washington Square_. New York, NY: Modern Library, 2002. ISBN: 0375761225. (Including introduction.) ({{% resource_link "5da586fc-41b2-4bb3-98d4-2611fa096d69" "Download" %}} a version of the text from Project Gutenberg.)
 
-Film: Holland, Agnieszka. [_Washington Square_](http://www.imdb.com/title/tt0120481/), 1997.
+Film: Holland, Agnieszka. {{% resource_link "7ef8713e-b476-4250-9a0b-2da193f7f348" "_Washington Square_" %}}, 1997.
 
 
 {{< tdclose >}}
@@ -116,9 +116,9 @@ Film: Holland, Agnieszka. [_Washington Square_](http://www.imdb.com/title/tt0120
 {{< tdopen >}}
 
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/reality-transformed) Singer, Irving. [_Reality Transformed: Film as Meaning and Technique_](https://mitpress.mit.edu/books/reality-transformed). Cambridge, MA: MIT Press, 1998, pp. 191-200. ISBN: 0262692481.
+{{% resource_link "5344d969-7780-4b5d-8f0d-9416a07c4984" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Singer, Irving. {{% resource_link "5344d969-7780-4b5d-8f0d-9416a07c4984" "_Reality Transformed: Film as Meaning and Technique_" %}}. Cambridge, MA: MIT Press, 1998, pp. 191-200. ISBN: 0262692481.
 
-Film: Wyler, William. [_The Heiress_](http://www.imdb.com/title/tt0041452/), 1949.
+Film: Wyler, William. {{% resource_link "3a3c5ed6-0a8e-4037-bd1f-f8136f41a0f2" "_The Heiress_" %}}, 1949.
 
 
 {{< tdclose >}}
@@ -131,9 +131,9 @@ Film: Wyler, William. [_The Heiress_](http://www.imdb.com/title/tt0041452/), 194
 {{< tdopen >}}
 
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/three-philosophical-filmmakers) Singer, Irving. [_Three Philosophical Filmmakers: Hitchcock, Welles, Renoir_](https://mitpress.mit.edu/books/three-philosophical-filmmakers). Cambridge, MA: MIT Press, 2004, pp. ix-79. ISBN: 0262195011.
+{{% resource_link "ad03b8c2-c9c5-4ee1-abc5-c4255446bf1d" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Singer, Irving. {{% resource_link "ad03b8c2-c9c5-4ee1-abc5-c4255446bf1d" "_Three Philosophical Filmmakers: Hitchcock, Welles, Renoir_" %}}. Cambridge, MA: MIT Press, 2004, pp. ix-79. ISBN: 0262195011.
 
-Film: Hitchcock, Alfred. [_The 39 Steps_](http://www.imdb.com/title/tt0026029/), 1935.
+Film: Hitchcock, Alfred. {{% resource_link "cf48dd80-adbc-4608-bc14-f7f217e8a974" "_The 39 Steps_" %}}, 1935.
 
 
 {{< tdclose >}}
@@ -146,7 +146,7 @@ Film: Hitchcock, Alfred. [_The 39 Steps_](http://www.imdb.com/title/tt0026029/),
 {{< tdopen >}}
 
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/three-philosophical-filmmakers) Singer, Irving. [_Three Philosophical Filmmakers: Hitchcock, Welles, Renoir_](https://mitpress.mit.edu/books/three-philosophical-filmmakers). Cambridge, MA: MIT Press, 2004, pp. 221-257. ISBN: 0262195011.
+{{% resource_link "ad03b8c2-c9c5-4ee1-abc5-c4255446bf1d" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Singer, Irving. {{% resource_link "ad03b8c2-c9c5-4ee1-abc5-c4255446bf1d" "_Three Philosophical Filmmakers: Hitchcock, Welles, Renoir_" %}}. Cambridge, MA: MIT Press, 2004, pp. 221-257. ISBN: 0262195011.
 
 Discussion of Readings and Screenings to date -
 
@@ -163,7 +163,7 @@ Discussion of Readings and Screenings to date -
 
 Cocteau, Jean. _Cocteau on the Film_. Mineola, NY: Dover, 1972, pp. v-76. ISBN: 0486227774.
 
-Film: Cocteau, Jean. [_Orphée_](http://www.imdb.com/title/tt0041719/), 1950.
+Film: Cocteau, Jean. {{% resource_link "c584dbdb-eb84-4056-ad52-5abf24c4ac09" "_Orphée_" %}}, 1950.
 
 
 {{< tdclose >}}
@@ -178,7 +178,7 @@ Film: Cocteau, Jean. [_Orphée_](http://www.imdb.com/title/tt0041719/), 1950.
 
 Cocteau, Jean. _Cocteau on the Film_. Mineola, NY: Dover, 1972, pp. 99-131. ISBN: 0486227774.
 
-Film: Cocteau, Jean. [_The Testament of Orpheus_](http://www.imdb.com/title/tt0054377/), 1960.
+Film: Cocteau, Jean. {{% resource_link "0fc690e0-ae6f-4e06-9ab0-c281b7ce33e2" "_The Testament of Orpheus_" %}}, 1960.
 
 
 {{< tdclose >}}
@@ -193,7 +193,7 @@ Film: Cocteau, Jean. [_The Testament of Orpheus_](http://www.imdb.com/title/tt00
 
 Singer, Irving."The Meaning of Death." In _The Creation of Value: Meaning in Life Series_. Vol. 1. Baltimore, MD: Johns Hopkins University Press, 1996. ISBN: 0801854512.
 
-Film: Bergman, Ingmar. [_The Seventh Seal_](http://www.imdb.com/title/tt0050976/), 1957.
+Film: Bergman, Ingmar. {{% resource_link "373d1a81-070f-4c31-bfab-9ffda27ae589" "_The Seventh Seal_" %}}, 1957.
 
 
 {{< tdclose >}}
@@ -208,7 +208,7 @@ Film: Bergman, Ingmar. [_The Seventh Seal_](http://www.imdb.com/title/tt0050976/
 
 Discussion of Student Drafts of Paper 2
 
-Film: Bergman, Ingmar. [_Through a Glass Darkly_](http://www.imdb.com/title/tt0055499/), 1961. (Interviews.)
+Film: Bergman, Ingmar. {{% resource_link "5d4c93ef-2a1d-4eed-9578-1dc3ca7b7b9e" "_Through a Glass Darkly_" %}}, 1961. (Interviews.)
 
 
 {{< tdclose >}}
